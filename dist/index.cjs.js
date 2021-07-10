@@ -2213,7 +2213,7 @@ var links = [
             {
                 label: "Docs",
                 href: "https://docs.lotusswap.com",
-            // },
+             },
             // {
             //     label: "Blog",
             //     href: "https://goosefinance.medium.com/",
